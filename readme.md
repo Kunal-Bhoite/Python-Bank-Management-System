@@ -5,6 +5,7 @@ This app allows users to **create accounts, deposit/withdraw money, update accou
 All data is stored securely in a **JSON file (`data.json`)**.
 
 ---
+![alt text](image.png)
 
 ## ✨ Features
 
